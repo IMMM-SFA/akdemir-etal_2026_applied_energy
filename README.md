@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18461111.svg)](https://doi.org/10.5281/zenodo.18461111)
 
-# akdemir-etal_2026_energy_reports
+# akdemir-etal_2026_applied_energy
 
 **Projected data center impacts on grid stress and potential mitigation strategies in the Western U.S.**
 
@@ -11,13 +11,13 @@ Kerem Ziya Akdemir<sup>1\*</sup>, Casey D. Burleyson<sup>1</sup>, Kendall Mongir
 \* corresponding author: keremziya.akdemir@pnnl.gov
 
 ## Abstract
-Recent advancements in artificial intelligence have created an unprecedented demand for data centers. However, increasing data center electricity demand can strain electricity grids without careful resource planning and operational practices. This study investigates the projected grid stress and reliability impacts of data centers in the U.S. Western Interconnection between 2025 and 2035, assuming no compensating power system upgrades exclusively for future data centers. We also explore the potential benefits of two impact mitigation strategies: delaying scheduled generator retirements and curtailing hourly data center demands up to 15%. We analyze grid stress and reliability in terms of wholesale electricity prices and unserved energy events across four data center demand growth rates: 3.71%, 5%, 10%, and 15% annually. The results indicate that although the impacts are relatively low by 2030, data centers could cause substantial grid stress and outages in the U.S. Western Interconnection by 2035 if future generation and transmission plans do not consider these large loads. Without mitigation, increases in annual average wholesale electricity prices range from 43% to 203%, and increases in the number of annual unserved energy hours vary between 159 and 507 hours in 2035. We show that postponing scheduled retirements of natural gas and nuclear generators (20.3 GW to 32.7 GW) can eliminate these impacts in most regions. Despite having value during grid stress periods, curtailing data center demands alone is insufficient to eliminate grid stress impacts. Our results emphasize the need for a portfolio of responses by the energy sector to minimize data center impacts.
+Recent advancements in artificial intelligence have created an unprecedented demand for data centers. However, growing data center demand can strain electricity grids if resource plans are unable to respond accordingly. This study investigates the projected grid stress and reliability impacts of data centers in the U.S. Western Interconnection between 2025 and 2035, assuming no compensating power system upgrades exclusively for future data centers. We also explore potential benefits of two impact mitigation strategies: delaying scheduled generator retirements and curtailing hourly data center demands up to 15%. We analyze grid stress and reliability in terms of wholesale electricity prices and unserved energy across four data center demand growth rates: 3.71%, 5%, 10%, and 15% annually. The results indicate that although impacts are relatively modest by 2030, data centers could cause substantial grid stress and outages in the U.S. Western Interconnection by 2035 if future generation and transmission plans do not consider these large loads. Without mitigation, increases in annual average wholesale electricity prices range from 43% to 203%, and increases in number of annual unserved energy hours vary between 159 and 507 hours in 2035. We show that postponing scheduled retirements of natural gas and nuclear generators (between 20.3-32.7 GW, depending on demand growth rate) can eliminate these impacts in most regions. Despite having value during grid stress periods, curtailing data center demands alone is insufficient to eliminate all grid stress events. Our results emphasize the need for a portfolio of responses by the energy sector to minimize data center impacts.
 
 ## Journal reference
 To be updated with appropriate reference information once the paper is published.
 
 ## Code reference
-Akdemir, K. Z., Burleyson, C. D., Mongird, K., Oikonomou, K., Thurber, T. B., Vernon, C. R., & Rice, J. S. (2026). Meta-repository for data and code associated with the Akdemir et al. 2026 submission to Energy Reports (Version v1.1.0) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.18461111
+Akdemir, K. Z., Burleyson, C. D., Mongird, K., Oikonomou, K., Thurber, T. B., Vernon, C. R., & Rice, J. S. (2026). Meta-repository for data and code associated with the Akdemir et al. 2026 submission to Applied Energy (Version v1.1.0) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.18461111
 
 ## Data reference
 
